@@ -1,0 +1,14 @@
+/* Team */
+Developer/Designer: Rebecka Cole
+Site:http://www.rebeckacole.ca
+Twitter:
+Location: Ottawa, Canada
+
+/*Thanks*/
+To all the awesome people who helped me.
+
+/*Site*/
+Last update: 2014/11/14
+Standards: HTML5, CSS3
+Components: Jquery, Modernizr, etc...
+Software: Dreamweaver, Apple
